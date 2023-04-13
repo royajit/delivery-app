@@ -46,7 +46,7 @@
     <key>UIViewControllerBasedStatusBarAppearance</key>
     <true />
     <key>IonAppId</key>
-    <string>io.ionic.starter</string>
+    <string>dd42d586</string>
     <key>IonChannelName</key>
     <string>production</string>
     <key>IonUpdateMethod</key>
